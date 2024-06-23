@@ -118,10 +118,6 @@ if __name__ == "__main__":
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Inspired by popular virtual assistants like Alexa and Google Assistant.
